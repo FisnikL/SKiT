@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f71ccd1b-6f53-4162-85c7-37b0bb30731e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zes30eg9ZG3TzRpCkLxOGCY0n3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Lab1_2Test">
+    <configuration name="Lab1_2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_2Test.testNullValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_2Test" />
+      <option name="METHOD_NAME" value="testNullValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_2Test.testPowerOfTwoNegativeLargeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_2Test" />
+      <option name="METHOD_NAME" value="testPowerOfTwoNegativeLargeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_2Test.testPowerOfTwoNegativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_2Test" />
+      <option name="METHOD_NAME" value="testPowerOfTwoNegativeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1_2Test.testWithParametersAndMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lab1_2Test" />
+      <option name="METHOD_NAME" value="testWithParametersAndMethodSource(int,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lab1_2Test" />
+        <item itemvalue="JUnit.Lab1_2Test.testWithParametersAndMethodSource" />
+        <item itemvalue="JUnit.Lab1_2Test.testNullValue" />
+        <item itemvalue="JUnit.Lab1_2Test.testPowerOfTwoNegativeLargeNumber" />
+        <item itemvalue="JUnit.Lab1_2Test.testPowerOfTwoNegativeNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71ccd1b-6f53-4162-85c7-37b0bb30731e" name="Default Changelist" comment="" />
+      <created>1585210690246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585210690246</updated>
+      <workItem from="1585210693266" duration="12447000" />
+      <workItem from="1585369419254" duration="399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1585309346371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="121" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585309346371" />
+    <state width="1322" height="419" key="GridCell.Tab.0.bottom" timestamp="1585312988643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="419" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585312988643" />
+    <state width="1396" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585301752085" />
+    <state width="1322" height="419" key="GridCell.Tab.0.center" timestamp="1585312988643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="419" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585312988643" />
+    <state width="1396" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585301752085" />
+    <state width="1322" height="419" key="GridCell.Tab.0.left" timestamp="1585312988643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="419" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585312988643" />
+    <state width="1396" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585301752085" />
+    <state width="1322" height="419" key="GridCell.Tab.0.right" timestamp="1585312988643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="419" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585312988643" />
+    <state width="1396" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585301752085" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585298565541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585298565541" />
+    <state x="388" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585212260537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585212260537" />
+    <state x="1845" y="78" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585298812074">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585212277539" />
+    <state x="1845" y="78" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585298812074" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585309357226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585309357226" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585298546164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585298546164" />
+  </component>
+</project>
