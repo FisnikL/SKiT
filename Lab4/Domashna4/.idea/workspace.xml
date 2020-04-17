@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e87f93-313c-4320-a8f5-5e548d59748b" name="Default Changelist" comment="" />
+    <list default="true" id="b7e87f93-313c-4320-a8f5-5e548d59748b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Domashna3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/out/test/Lab1/Lab1_2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/out/test/Lab1/Lab1_2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/DomashnaZadaca12/out/test/Lab1/META-INF/Lab1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Domashna3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Domashna3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1aPKlOlqusqrvmTb5rO7bUlDDE0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +47,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -122,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586631938847</updated>
       <workItem from="1586631942018" duration="10519000" />
+      <workItem from="1586941978438" duration="1741000" />
     </task>
     <servers />
   </component>
@@ -129,26 +144,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1396" height="188" key="GridCell.Tab.0.bottom" timestamp="1586725459311">
+    <state width="1397" height="150" key="GridCell.Tab.0.bottom" timestamp="1586956901813">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1322" height="133" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586717348652" />
-    <state width="1396" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586725459311" />
-    <state width="1396" height="188" key="GridCell.Tab.0.center" timestamp="1586725459311">
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586946822329" />
+    <state width="1397" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586956901813" />
+    <state width="1397" height="150" key="GridCell.Tab.0.center" timestamp="1586956901813">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1322" height="133" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586717348652" />
-    <state width="1396" height="188" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586725459311" />
-    <state width="1396" height="188" key="GridCell.Tab.0.left" timestamp="1586725459311">
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586946822328" />
+    <state width="1397" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586956901813" />
+    <state width="1397" height="150" key="GridCell.Tab.0.left" timestamp="1586956901813">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1322" height="133" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586717348651" />
-    <state width="1396" height="188" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586725459311" />
-    <state width="1396" height="188" key="GridCell.Tab.0.right" timestamp="1586725459311">
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586946822328" />
+    <state width="1397" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586956901813" />
+    <state width="1397" height="150" key="GridCell.Tab.0.right" timestamp="1586956901813">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1322" height="133" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586717348652" />
-    <state width="1396" height="188" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586725459311" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586946822329" />
+    <state width="1397" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586956901813" />
     <state x="1791" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586724555251">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
